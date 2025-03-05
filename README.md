@@ -107,7 +107,7 @@ sequenceDiagram
     SuiBlockchain -->> Platform: Storage Confirmed
 
     Platform ->> Community: Announce Community Voting
-    Community ->> Platform: Submit Votes (SUI, USDC, USDT)
+    Community ->> Platform: Submit Votes (SUI)
     Platform ->> SuiBlockchain: Store Community Votes
     SuiBlockchain -->> Platform: Storage Confirmed
 
@@ -127,6 +127,6 @@ sequenceDiagram
 
 - This platform **unifies event management** for **all Sui-related events**, including hackathons, seminars, conferences, and side events.
 - Users can **register, submit projects, and vote** inQW a decentralized and transparent manner.
-- Judges and community members can **evaluate projects and vote using SUI, USDC, or USDT**.
+- Judges and community members can **evaluate projects and vote using SUI**.
 - AI agents handle **event promotion and project highlights** automatically.
 - Participants receive **dynamic NFTs** that track their engagement and achievements in the ecosystem.
