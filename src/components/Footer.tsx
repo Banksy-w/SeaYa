@@ -43,6 +43,11 @@ export default function Footer() {
                   About seeYa
                 </button>
               </div>
+              <div className="flex py-2 px-0 gap-2 justify-start items-center shrink-0 flex-nowrap relative z-[50]">
+                <button className="flex w-auto h-[1.25rem] justify-start items-start shrink-0 basis-auto font-['Space_Grotesk'] text-[1rem] font-normal leading-[1.25rem] text-[#fff] relative text-left md:text-center whitespace-nowrap z-[51] bg-transparent border-none cursor-pointer">
+                  The team
+                </button>
+              </div>
             </div>
             <div className="flex w-full md:w-auto flex-col items-start shrink-0 flex-nowrap relative z-[51]">
               <div className="flex py-2 px-0 gap-2 justify-start items-center shrink-0 flex-nowrap relative z-[52]">
