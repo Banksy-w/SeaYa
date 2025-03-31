@@ -1,4 +1,14 @@
-# SeaYa
+<h1 align="center">SeaYa</h1>
+<h3 align="center">Sui ecosystem AI-driven event management platform</h3>
+
+<p align="center">
+  <a href="https://sea-ya.vercel.app/" style="color: #a77dff">Platform</a> | <a href="" style="color: #a77dff">Pitchdeck</a> | <a href="" style="color: #a77dff">Demo Video</a>
+</p>
+
+<p align="center">
+  <a href="" style="color: #a77dff">dNFT Contract</a> | <a href="" style="color: #a77dff">Vote Contract</a> | <a href="" style="color: #a77dff">AI agent</a>
+</p>
+
 
 ## Overview
 
